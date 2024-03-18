@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "goit-hw-web-06"
+version = "0.1.0"
+description = "GOIT > Курс > Python Developer > Python WEB 1.1\" > Модуль 6. Реляційні бази даних"
+authors = ["Serhii Dulin <64526933+SergDulin@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+faker = "^24.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
